@@ -291,7 +291,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: Dendra_web_icon_1200_1200_green_white.png
+  logo: logo.png
 
   # This is the description that is shown
   # on the footer and meta tags.
