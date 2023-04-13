@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Dendra.Science Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.dendra.science
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
+    # - name: North Coast
+    #   description: The main servers are located here.
+    #   closed: true
+    # - name: Empty Category
     - name: Uncategorized
       untitled: true
 
@@ -158,20 +158,25 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
     - name: API
-      description: The guts of the application.
+      description: Public facing REST API.
       category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      link: https://api.dendra.science/v2/system/time/utc
+    - name: Website
+      description: Public facing web site and application.
       category: Uncategorized
+      link: https://dendra.science/
+    - name: Station Widget
+      description: Embeddable station status widgets.
+      category: Uncategorized
+      link: https://mini.dendra.science/widgets/station?organizationId=58db17c424dc720001671378&stationId=58e68cabdf5ce600012602b3
+    - name: Kubernetes
+      description: Container management and orchestration services.
+      category: Uncategorized
+    - name: Jetstream2
+      description: Cloud computing environment for researchers and educators running on OpenStack.
+      category: Uncategorized
+      link: https://jetstream.status.io/
 
   # What date format to use?
   #
@@ -286,7 +291,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo: Dendra_web_icon_1200_1200_green_white.png
 
   # This is the description that is shown
   # on the footer and meta tags.
@@ -334,7 +339,7 @@ params:
   # down: "#e60000"
   # notice: "#24478f"
   brand: "#0a0c0f"
-  ok: "#008000"
+  ok: "#4caf50"
   disrupted: "#cc4400"
   down: "#e60000"
   notice: "#24478f"
