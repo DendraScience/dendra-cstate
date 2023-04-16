@@ -1,8 +1,8 @@
 ---
-title: Maintenance Announcement 
-date: 2023-04-16 07:00:00 
+title: Maintenance Announcement
+date: 2023-04-16 07:00:00
 informational: true
-pin: true 
+pin: true
 section: issue
 ---
 
