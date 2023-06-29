@@ -1,8 +1,7 @@
 ---
 title: System unavailable (Jetstream2 power outage)
-date: 2023-04-16 07:00:00
+date: 2023-06-29 19:59:10
 resolved: false
-resolvedWhen: 2023-04-17 00:00:00
 severity: disrupted
 affected:
   - API
