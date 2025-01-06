@@ -8,13 +8,26 @@
       <generator>github.com/cstate</generator>
       <language>en</language>
       
-      <lastBuildDate>Mon, 06 Jan 2025 11:30:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 06 Jan 2025 11:20:00 +0000</lastBuildDate>
       
       
       
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
       
       
+      
+        <item>
+          <title>All systems taken offline for Jetstream2 maintenance</title>
+          <link>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</link>
+          <pubDate>Mon, 06 Jan 2025 11:20:00 +0000</pubDate>
+          <guid>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</guid>
+          <category></category>
+          <description>&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(11:20 UTC — Jan 6)&lt;/span&gt;
+
+&lt;/p&gt;
+</description>
+        </item>
       
         <item>
           <title>Maintenance Announcement</title>
