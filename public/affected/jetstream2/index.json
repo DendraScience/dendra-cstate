@@ -1,0 +1,111 @@
+{
+  "is": "system",
+  "title": "Jetstream2",
+  "permalink": "http://localhost:1313/affected/jetstream2/",
+  "status": "disrupted", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "All systems taken offline for Jetstream2 maintenance",
+        "createdAt": "2025-01-06 11:00:00 +0000 UTC",
+        "lastMod": "2025-01-06 11:00:00 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
+        "severity": "disrupted",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+        "filename": "2025-01-06-maintenance-shutdown.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "All systems taken offline for Jetstream2 repair",
+        "createdAt": "2024-04-16 21:30:00 +0000 UTC",
+        "lastMod": "2024-04-16 18:07:48 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2024-04-16-service-disruption/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-04-17 00:34:00",
+        "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+        "filename": "2024-04-16-service-disruption.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "All systems taken offline for Jetstream2 maintenance",
+        "createdAt": "2024-04-14 09:30:00 +0000 UTC",
+        "lastMod": "2024-04-16 14:55:50 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2024-04-14-maintenance-shutdown/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2024-04-15 05:52:00",
+        "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+        "filename": "2024-04-14-maintenance-shutdown.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "System unavailable (Jetstream2 power outage)",
+        "createdAt": "2023-08-08 13:04:07 +0000 UTC",
+        "lastMod": "2023-08-13 12:02:41 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2023-08-08-system-outage/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-08-08 17:22:00",
+        "affected": ["API", "Kubernetes", "Jetstream2"],
+        "filename": "2023-08-08-system-outage.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "System unavailable (Jetstream2 upstream network outage)",
+        "createdAt": "2023-08-08 13:04:07 +0000 UTC",
+        "lastMod": "2023-08-13 12:02:41 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2023-08-13-network-outage/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-08-13 17:30:00",
+        "affected": ["API", "Jetstream2"],
+        "filename": "2023-08-13-network-outage.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "System unavailable (Jetstream2 power outage)",
+        "createdAt": "2023-06-29 19:59:10 +0000 UTC",
+        "lastMod": "2023-08-13 12:02:41 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2023-06-29-system-outage/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-06-30 03:30:00",
+        "affected": ["API", "Kubernetes", "Jetstream2"],
+        "filename": "2023-06-29-system-outage.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "All systems taken offline for Jetstream2 maintenance",
+        "createdAt": "2023-04-16 07:00:00 +0000 UTC",
+        "lastMod": "2023-04-16 16:57:44 -0700 PDT",
+        "permalink": "http://localhost:1313/issues/2023-04-16-maintenance-shutdown/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2023-04-17 00:00:00",
+        "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+        "filename": "2023-04-16-maintenance-shutdown.md"
+      }
+    
+  ]
+}
+
+
+
+
+

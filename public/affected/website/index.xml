@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Website on Dendra.Science Status</title>
+    <link>http://localhost:1313/affected/website/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2025-01-06T11:00:00+00:00</lastBuildDate>
+    <updated>2025-01-06T11:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>All systems taken offline for Jetstream2 maintenance</title>
+        <link>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</link>
+        <pubDate>Mon, 06 Jan 2025 11:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</guid>
+        <category></category>
+        <description>Pending - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. (11:00 UTC — Jan 6) </description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(11:00 UTC — Jan 6)&lt;/span&gt;
+
+&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Resolved] All systems taken offline for Jetstream2 repair</title>
+        <link>http://localhost:1313/issues/2024-04-16-service-disruption/</link>
+        <pubDate>Tue, 16 Apr 2024 21:30:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-04-16-service-disruption/</guid>
+        <category>2024-04-17 00:34:00</category>
+        <description>Pending - Dendra shut down due to hosting provider storage system issues. Jetstream2 has been experiencing several ongoing system issues after the weekend power outage. Waiting for Indiana University Jetstream2 to perform repair. (21:30 UTC — Apr 16) Resolved - Jetstream2 patch applied. Dendra system services have been restarted and validation underway. (00:34 UTC — Apr 17) </description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down due to hosting provider storage system issues. Jetstream2 has been experiencing several ongoing system issues after the weekend power outage. Waiting for Indiana University Jetstream2 to perform repair. 
+  &lt;span class=&#34;faded&#34;&gt;(21:30 UTC — Apr 16)&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resolved&lt;/em&gt; - Jetstream2 patch applied. Dendra system services have been restarted and validation underway. 
+  &lt;span class=&#34;faded&#34;&gt;(00:34 UTC — Apr 17)&lt;/span&gt;
+
+&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Resolved] All systems taken offline for Jetstream2 maintenance</title>
+        <link>http://localhost:1313/issues/2024-04-14-maintenance-shutdown/</link>
+        <pubDate>Sun, 14 Apr 2024 09:30:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-04-14-maintenance-shutdown/</guid>
+        <category>2024-04-15 05:52:00</category>
+        <description>Pending - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. (09:30 UTC — Apr 14) Resolved - Jetstream2 maintenance completed. Power outage was longer than expected. Data center was switched to diesel power due to continued Duke Energy outage. Private networking issues are still being investigated by Jetstream2 team. Dendra system service have been restarted and validation underway.</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(09:30 UTC — Apr 14)&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resolved&lt;/em&gt; - Jetstream2 maintenance completed. Power outage was longer than expected. Data center was switched to diesel power due to continued Duke Energy outage. Private networking issues are still being investigated by Jetstream2 team. Dendra system service have been restarted and validation underway. 
+  &lt;span class=&#34;faded&#34;&gt;(05:52 UTC — Apr 15)&lt;/span&gt;
+
+&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>[Resolved] All systems taken offline for Jetstream2 maintenance</title>
+        <link>http://localhost:1313/issues/2023-04-16-maintenance-shutdown/</link>
+        <pubDate>Sun, 16 Apr 2023 07:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2023-04-16-maintenance-shutdown/</guid>
+        <category>2023-04-17 00:00:00</category>
+        <description>Pending - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. (07:00 UTC — Apr 16) Resolved - Jetstream2 maintenance completed. Dendra system service have been restarted and validation underway. (00:00 UTC — Apr 17) </description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(07:00 UTC — Apr 16)&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resolved&lt;/em&gt; - Jetstream2 maintenance completed. Dendra system service have been restarted and validation underway. 
+  &lt;span class=&#34;faded&#34;&gt;(00:00 UTC — Apr 17)&lt;/span&gt;
+
+&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

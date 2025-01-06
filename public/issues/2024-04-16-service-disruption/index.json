@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "All systems taken offline for Jetstream2 repair",
+  "createdAt": "2024-04-16 21:30:00 +0000 UTC",
+  "lastMod": "2024-04-16 18:07:48 -0700 PDT",
+  "permalink": "http://localhost:1313/issues/2024-04-16-service-disruption/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2024-04-17 00:34:00",
+  "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+  "filename": "2024-04-16-service-disruption.md"
+}

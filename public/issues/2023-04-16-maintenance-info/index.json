@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Maintenance Announcement",
+  "createdAt": "2023-04-16 07:00:00 +0000 UTC",
+  "lastMod": "2023-06-29 13:21:28 -0700 PDT",
+  "permalink": "http://localhost:1313/issues/2023-04-16-maintenance-info/",
+  "severity": "<no value>",
+  "resolved": false,
+  "informational": true,
+  "resolvedAt": "<no value>",
+  "affected": [],
+  "filename": "2023-04-16-maintenance-info.md"
+}

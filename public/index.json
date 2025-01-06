@@ -1,0 +1,97 @@
+{
+  "is": "index",
+  "cStateVersion": "5.3",
+  "apiVersion": "2.0",
+  "title": "Dendra.Science Status",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "http://localhost:1313/", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "Uncategorized",
+        "hideTitle": true,
+        "closedByDefault": false
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "API",
+        "description": "Public facing REST API.",
+        "category": "Uncategorized", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Website",
+        "description": "Public facing web site and application.",
+        "category": "Uncategorized", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Station Widget",
+        "description": "Embeddable station status widgets.",
+        "category": "Uncategorized", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kubernetes",
+        "description": "Container management and orchestration services.",
+        "category": "Uncategorized", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Jetstream2",
+        "description": "Cloud computing environment for researchers and educators running on OpenStack.",
+        "category": "Uncategorized", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  "tabs": [
+      {
+        "name": "Monitoring", 
+        "link": "<no value>"
+      }
+    ,
+      {
+        "name": "Jetstream2", 
+        "link": "<no value>"
+      }
+    
+  ],
+  
+  "buildDate": "2025-01-06",
+  "buildTime": "00:12",
+  "buildTimezone": "PST",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#4caf50",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "http://localhost:1313/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}

@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "System unavailable (Jetstream2 power outage)",
+  "createdAt": "2023-06-29 19:59:10 +0000 UTC",
+  "lastMod": "2023-08-13 12:02:41 -0700 PDT",
+  "permalink": "http://localhost:1313/issues/2023-06-29-system-outage/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2023-06-30 03:30:00",
+  "affected": ["API", "Kubernetes", "Jetstream2"],
+  "filename": "2023-06-29-system-outage.md"
+}
