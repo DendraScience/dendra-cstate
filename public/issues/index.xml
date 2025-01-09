@@ -8,8 +8,8 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2025-01-06T11:00:00+00:00</lastBuildDate>
-    <updated>2025-01-06T11:00:00+00:00</updated>
+    <lastBuildDate>2025-01-06T11:20:00+00:00</lastBuildDate>
+    <updated>2025-01-06T11:20:00+00:00</updated>
     
     
     
@@ -19,12 +19,12 @@
       <item>
         <title>All systems taken offline for Jetstream2 maintenance</title>
         <link>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</link>
-        <pubDate>Mon, 06 Jan 2025 11:00:00 +0000</pubDate>
+        <pubDate>Mon, 06 Jan 2025 11:20:00 +0000</pubDate>
         <guid>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</guid>
         <category></category>
-        <description>Pending - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. (11:00 UTC — Jan 6) </description>
+        <description>Pending - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. (11:20 UTC — Jan 6) </description>
         <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
-  &lt;span class=&#34;faded&#34;&gt;(11:00 UTC — Jan 6)&lt;/span&gt;
+  &lt;span class=&#34;faded&#34;&gt;(11:20 UTC — Jan 6)&lt;/span&gt;
 
 &lt;/p&gt;
 </content>
@@ -33,11 +33,11 @@
       <item>
         <title>Maintenance Announcement</title>
         <link>http://localhost:1313/issues/2025-01-06-maintenance-info/</link>
-        <pubDate>Mon, 06 Jan 2025 00:05:00 +0000</pubDate>
+        <pubDate>Mon, 06 Jan 2025 08:10:00 +0000</pubDate>
         <guid>http://localhost:1313/issues/2025-01-06-maintenance-info/</guid>
         <category></category>
-        <description>The Indiana University Jetstream2 supercomputer center, where Dendra is hosted, will be performing scheduled infrastructure maintenance, which is being done in conjunction with a third party vendor to update Jetstream2’s cooling system in order to accommodate a resource expansion. This is a multi-day scheduled outage. Dendra servers will be shut down gracefully between 3-5 AM Pacific Time on Monday morning to prepare. For more information visit https://jetstream.status.io/</description>
-        <content type="html">&lt;p&gt;The Indiana University Jetstream2 supercomputer center, where Dendra is hosted, will be performing scheduled infrastructure maintenance, which is being done in conjunction with a third party vendor to update Jetstream2’s cooling system in order to accommodate a resource expansion. This is a multi-day scheduled outage. Dendra servers will be shut down gracefully between 3-5 AM Pacific Time on Monday morning to prepare. For more information visit &lt;a href=&#34;https://jetstream.status.io/&#34;&gt;https://jetstream.status.io/&lt;/a&gt;&lt;/p&gt;
+        <description>The Indiana University Jetstream2 supercomputer center, where Dendra is hosted, will be performing scheduled infrastructure maintenance, which is being done in conjunction with a third party vendor to update Jetstream2’s cooling system in order to accommodate a resource expansion. This is a multi-day scheduled outage that will start on Monday and continue until Thursday. Dendra servers will be shut down gracefully between 3-5 AM Pacific Time on Monday morning to prepare.</description>
+        <content type="html">&lt;p&gt;The Indiana University Jetstream2 supercomputer center, where Dendra is hosted, will be performing scheduled infrastructure maintenance, which is being done in conjunction with a third party vendor to update Jetstream2’s cooling system in order to accommodate a resource expansion. This is a multi-day scheduled outage that will start on Monday and continue until Thursday. Dendra servers will be shut down gracefully between 3-5 AM Pacific Time on Monday morning to prepare. For more information visit &lt;a href=&#34;https://jetstream.status.io/&#34;&gt;https://jetstream.status.io/&lt;/a&gt;&lt;/p&gt;
 </content>
       </item>
     

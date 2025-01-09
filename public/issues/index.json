@@ -7,8 +7,8 @@
       {
         "is": "issue",
         "title": "All systems taken offline for Jetstream2 maintenance",
-        "createdAt": "2025-01-06 11:00:00 +0000 UTC",
-        "lastMod": "2025-01-06 11:00:00 +0000 UTC",
+        "createdAt": "2025-01-06 11:20:00 +0000 UTC",
+        "lastMod": "2025-01-06 03:09:29 -0800 PST",
         "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
         "severity": "disrupted",
         "resolved": false,
@@ -21,8 +21,8 @@
       {
         "is": "issue",
         "title": "Maintenance Announcement",
-        "createdAt": "2025-01-06 00:05:00 +0000 UTC",
-        "lastMod": "2025-01-06 00:05:00 +0000 UTC",
+        "createdAt": "2025-01-06 08:10:00 +0000 UTC",
+        "lastMod": "2025-01-06 00:13:18 -0800 PST",
         "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-info/",
         "severity": "<no value>",
         "resolved": false,

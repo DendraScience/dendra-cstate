@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "http://localhost:1313/", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "disrupted", 
+  "summaryStatus": "ok", 
   "categories": [
       {
         "name": "Uncategorized",
@@ -23,120 +23,50 @@
         "description": "Public facing REST API.",
         "category": "Uncategorized", 
         
-        "status": "disrupted",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "All systems taken offline for Jetstream2 maintenance",
-              "createdAt": "2025-01-06 11:20:00 +0000 UTC",
-              "lastMod": "2025-01-06 11:20:00 +0000 UTC",
-              "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
-              "severity": "disrupted",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
-              "filename": "2025-01-06-maintenance-shutdown.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Website",
         "description": "Public facing web site and application.",
         "category": "Uncategorized", 
         
-        "status": "disrupted",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "All systems taken offline for Jetstream2 maintenance",
-              "createdAt": "2025-01-06 11:20:00 +0000 UTC",
-              "lastMod": "2025-01-06 11:20:00 +0000 UTC",
-              "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
-              "severity": "disrupted",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
-              "filename": "2025-01-06-maintenance-shutdown.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Station Widget",
         "description": "Embeddable station status widgets.",
         "category": "Uncategorized", 
         
-        "status": "disrupted",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "All systems taken offline for Jetstream2 maintenance",
-              "createdAt": "2025-01-06 11:20:00 +0000 UTC",
-              "lastMod": "2025-01-06 11:20:00 +0000 UTC",
-              "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
-              "severity": "disrupted",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
-              "filename": "2025-01-06-maintenance-shutdown.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Kubernetes",
         "description": "Container management and orchestration services.",
         "category": "Uncategorized", 
         
-        "status": "disrupted",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "All systems taken offline for Jetstream2 maintenance",
-              "createdAt": "2025-01-06 11:20:00 +0000 UTC",
-              "lastMod": "2025-01-06 11:20:00 +0000 UTC",
-              "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
-              "severity": "disrupted",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
-              "filename": "2025-01-06-maintenance-shutdown.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Jetstream2",
         "description": "Cloud computing environment for researchers and educators running on OpenStack.",
         "category": "Uncategorized", 
         
-        "status": "disrupted",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "All systems taken offline for Jetstream2 maintenance",
-              "createdAt": "2025-01-06 11:20:00 +0000 UTC",
-              "lastMod": "2025-01-06 11:20:00 +0000 UTC",
-              "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
-              "severity": "disrupted",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
-              "filename": "2025-01-06-maintenance-shutdown.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       }
   ],
   
@@ -153,8 +83,8 @@
     
   ],
   
-  "buildDate": "2025-01-06",
-  "buildTime": "03:08",
+  "buildDate": "2025-01-08",
+  "buildTime": "16:58",
   "buildTimezone": "PST",
   "colorBrand": "#0a0c0f",
   "colorOk": "#4caf50",
