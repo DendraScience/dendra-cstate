@@ -1,0 +1,8 @@
+{
+  "is": "page",
+  "title": "All systems taken offline for Jetstream2 maintenance",
+  "createdAt": "2026-01-02 10:30:00 +0000 UTC",
+  "filename": "2026-01-02-maintenance-shutdown.md",
+  "permalink": "http://localhost:1313/2026-01-02-maintenance-shutdown/",
+  "body": "\u003cp\u003e\u003cem\u003ePending\u003c/em\u003e - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. \n  \u003cspan class=\"faded\"\u003e(10:30 UTC — Jan 2)\u003c/span\u003e\n\n\u003c/p\u003e\n"
+}

@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "All systems taken offline for Jetstream2 maintenance",
+  "createdAt": "2026-01-02 10:30:00 +0000 UTC",
+  "lastMod": "2026-01-02 10:30:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/_2026-01-02-maintenance-shutdown/",
+  "severity": "disrupted",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "2025-01-03 00:30:00",
+  "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+  "filename": "_2026-01-02-maintenance-shutdown.md"
+}

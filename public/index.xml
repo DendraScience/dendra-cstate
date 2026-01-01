@@ -44,6 +44,16 @@
         </item>
       
         <item>
+          <title>Maintenance Announcement</title>
+          <link>http://localhost:1313/issues/2026-01-02-maintenance-info/</link>
+          <pubDate>Mon, 06 Jan 2025 08:10:00 +0000</pubDate>
+          <guid>http://localhost:1313/issues/2026-01-02-maintenance-info/</guid>
+          <category></category>
+          <description>&lt;p&gt;The Indiana University Jetstream2 supercomputer center, where Dendra is hosted, will be offline during plumbing maintenance of the IU Bloomington Data Center. This is a half-day scheduled outage. Dendra servers will be shut down gracefully between 2-3 AM Pacific Time on Friday morning to prepare. For more information visit &lt;a href=&#34;https://jetstream.status.io/&#34;&gt;https://jetstream.status.io/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+      
+        <item>
           <title>[Resolved] All systems taken offline for Jetstream2 repair</title>
           <link>http://localhost:1313/issues/2024-04-16-service-disruption/</link>
           <pubDate>Tue, 16 Apr 2024 21:30:00 +0000</pubDate>
