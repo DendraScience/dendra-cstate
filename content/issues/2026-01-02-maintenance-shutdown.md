@@ -2,7 +2,6 @@
 title: All systems taken offline for Jetstream2 maintenance
 date: 2026-01-02 10:30:00
 resolved: false
-resolvedWhen: 2025-01-03 00:30:00
 severity: disrupted
 affected:
   - API
