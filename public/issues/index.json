@@ -7,6 +7,20 @@
       {
         "is": "issue",
         "title": "All systems taken offline for Jetstream2 maintenance",
+        "createdAt": "2026-01-02 10:30:00 +0000 UTC",
+        "lastMod": "2026-01-02 02:52:05 -0800 PST",
+        "permalink": "http://localhost:1313/issues/2026-01-02-maintenance-shutdown/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2026-01-03 00:30:00",
+        "affected": ["API", "Website", "Station Widget", "Kubernetes", "Jetstream2"],
+        "filename": "2026-01-02-maintenance-shutdown.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "All systems taken offline for Jetstream2 maintenance",
         "createdAt": "2025-01-06 11:20:00 +0000 UTC",
         "lastMod": "2025-01-08 17:00:07 -0800 PST",
         "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-shutdown/",
@@ -22,7 +36,7 @@
         "is": "issue",
         "title": "Maintenance Announcement",
         "createdAt": "2025-01-06 08:10:00 +0000 UTC",
-        "lastMod": "2025-01-06 00:13:18 -0800 PST",
+        "lastMod": "2026-01-01 13:08:40 -0800 PST",
         "permalink": "http://localhost:1313/issues/2025-01-06-maintenance-info/",
         "severity": "<no value>",
         "resolved": false,
@@ -36,7 +50,7 @@
         "is": "issue",
         "title": "Maintenance Announcement",
         "createdAt": "2025-01-06 08:10:00 +0000 UTC",
-        "lastMod": "2025-01-06 08:10:00 +0000 UTC",
+        "lastMod": "2026-01-01 13:08:40 -0800 PST",
         "permalink": "http://localhost:1313/issues/2026-01-02-maintenance-info/",
         "severity": "<no value>",
         "resolved": false,

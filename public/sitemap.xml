@@ -3,37 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/affected/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issues/2026-01-02-maintenance-shutdown/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/affected/api/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issues/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/affected/jetstream2/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/affected/kubernetes/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/affected/station-widget/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/affected/website/</loc>
+    <lastmod>2026-01-02T02:52:05-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/issues/2025-01-06-maintenance-shutdown/</loc>
     <lastmod>2025-01-08T17:00:07-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/affected/api/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/issues/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/affected/jetstream2/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/affected/kubernetes/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/affected/station-widget/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/affected/website/</loc>
-    <lastmod>2025-01-08T17:00:07-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/issues/2025-01-06-maintenance-info/</loc>
-    <lastmod>2025-01-06T00:13:18-08:00</lastmod>
+    <lastmod>2026-01-01T13:08:40-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/issues/2026-01-02-maintenance-info/</loc>
-    <lastmod>2025-01-06T08:10:00+00:00</lastmod>
+    <lastmod>2026-01-01T13:08:40-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/issues/2024-04-16-service-disruption/</loc>
     <lastmod>2024-04-16T18:07:48-07:00</lastmod>

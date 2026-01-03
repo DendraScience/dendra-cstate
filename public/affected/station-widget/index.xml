@@ -8,13 +8,38 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2025-01-06T11:20:00+00:00</lastBuildDate>
-    <updated>2025-01-06T11:20:00+00:00</updated>
+    <lastBuildDate>2026-01-02T10:30:00+00:00</lastBuildDate>
+    <updated>2026-01-02T10:30:00+00:00</updated>
     
     
     
       <atom:link href="http://localhost:1313/affected/station-widget/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>[Resolved] All systems taken offline for Jetstream2 maintenance</title>
+        <link>http://localhost:1313/issues/2026-01-02-maintenance-shutdown/</link>
+        <pubDate>Fri, 02 Jan 2026 10:30:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2026-01-02-maintenance-shutdown/</guid>
+        <category>2026-01-03 00:30:00</category>
+        <description>&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(10:30 UTC — Jan 2)&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resolved&lt;/em&gt; - Jetstream2 maintenance completed. Dendra system service have been restarted and validation underway. 
+  &lt;span class=&#34;faded&#34;&gt;(00:33 UTC — Jan 3)&lt;/span&gt;
+
+&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Pending&lt;/em&gt; - Dendra shut down gracefully. Waiting for Indiana University Jetstream2 to perform maintenance and come back online so Dendra system services can be started. 
+  &lt;span class=&#34;faded&#34;&gt;(10:30 UTC — Jan 2)&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resolved&lt;/em&gt; - Jetstream2 maintenance completed. Dendra system service have been restarted and validation underway. 
+  &lt;span class=&#34;faded&#34;&gt;(00:33 UTC — Jan 3)&lt;/span&gt;
+
+&lt;/p&gt;
+</content>
+      </item>
     
       <item>
         <title>[Resolved] All systems taken offline for Jetstream2 maintenance</title>
